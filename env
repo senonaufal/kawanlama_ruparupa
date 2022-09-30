@@ -1,0 +1,8 @@
+BASE_URL=http://www.ruparupa.com
+
+
+BROWSER=chrome
+//BROWSER=chrome_headless
+CI=false
+SHORT_TIMEOUT=20
+DEFAULT_TIMEOUT=30
